@@ -148,3 +148,82 @@ header{
   
 }
 /* ========================== Banner End ============================ */
+
+/* ========================== Client Start ========================== */
+#client h6{
+    text-align:center ;
+    font-size: 23px;
+    font-weight: 700;
+    letter-spacing: 2%;
+    font-family: "Gupter", serif;
+    color: #000;
+
+}
+.client-title{
+    justify-content: space-between;
+    margin-top: 50px;
+    color: #72696A;
+    font-size: 45px;
+    font-weight: 700;
+    font-family: "Gupter", serif;
+    letter-spacing: 2%;
+
+}
+.chair1-left{
+    display: flex;
+    justify-content: end;
+    align-items: center;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+.chair1-text{
+    margin-right: 180px;
+}
+.chair1-text h5{
+    font-size: 30px;
+    color: #000;
+    letter-spacing: 2%;
+    font-weight: 700;
+    font-family: "Gupter", serif;
+
+}
+.chair1-text h3{
+    font-size: 25px;
+    color: #C4A586;
+    letter-spacing: 2%;
+    font-weight: 500;
+    font-family: "Gupter", serif;
+    margin-top: 30px;
+
+}
+.chair{
+    justify-content: end;
+}
+.chair2-right {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #C4A586;
+    margin-top: 30px;
+}
+.chair2-text{
+    margin-right: 50px;
+}
+.chair2-text h3{
+    font-size: 30px;
+    font-weight: 700;
+    letter-spacing: 2%;
+    color: #000;
+    font-family: "Gupter", serif;
+    
+}
+.chair2-text h4{
+    font-size: 25px;
+    font-weight: 500;
+    color: gray;
+    letter-spacing: 2%;
+    font-family: "Gupter", serif;
+    margin-top: 30px;
+
+}
+/* ========================== Client End ========================== */
