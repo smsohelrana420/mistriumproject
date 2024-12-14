@@ -305,3 +305,78 @@ header{
     margin-top: 350px;
 }
 /* ========================= Product End ====================== */
+
+/* ======================== Customer Start ====================== */
+#customer{
+    margin-top: 350px;
+}
+.customer-text h2{
+    font-size: 55px;
+    font-weight: 500;
+    color: #000;
+    font-family: "Gupter", serif;
+    width: 461px;
+    margin-top: 40px;
+}
+.customer-text p{
+    font-size: 20px;
+    font-weight: 400;
+    color: #000;
+    letter-spacing: 2%;
+    line-height: 28px;
+    font-family: "Habibi", serif;
+    width: 559px;
+    margin-top: 34px;
+}
+.customer-details{
+    margin-top:150px;
+}
+.customer-address{
+    margin-left: 50px;
+}
+.customer-address h5{
+    font-size: 22px;
+    font-weight: 700;
+    letter-spacing: 2%;
+    font-family: "Gupter", serif;
+    color: #000;
+
+}
+.customer-address h6{
+    font-size: 17px;
+    font-weight: 400;
+    letter-spacing: 2%;
+    line-height: 78px;
+    font-family: "Habibi", serif;
+    color: #000;
+
+}
+.customer-icon ul{
+    margin-left: 100px;
+    gap: 5px;
+    color: #C4A586;
+}
+.customer-icon ul li{
+    list-style: none;
+}
+
+.customer-arrow{
+    margin-top: 100px;
+    margin-right: 20px;
+}
+.customer-arrow ul{
+    gap: 30px;
+    
+}
+.customer-arrow ul li{
+    background: #C4A586;
+    padding: 15px 15px;
+    border-radius: 100%;
+    color: #fff;
+    border: 1px solid #000;
+}
+.arrow-left{
+    background: transparent;
+    color: #000;
+}
+/* ======================== Customer End ======================= */
