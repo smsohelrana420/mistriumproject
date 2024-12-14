@@ -227,3 +227,81 @@ header{
 
 }
 /* ========================== Client End ========================== */
+
+/* ========================= Product Start ====================== */
+#product{
+    margin-top: 50px;
+}
+#product h2{
+    font-size: 40px;
+    font-weight: 700;
+    letter-spacing: 2%;
+    color: #000;
+    font-family: "Gupter", serif;
+
+}
+.product-title{
+    justify-content: end;
+    gap: 50px;
+    align-items: center;
+}
+.product-title h6{
+    font-size: 25px;
+    font-weight: 500;
+    letter-spacing: 2%;
+    color: #000;
+    font-family: "Gupter", serif;
+
+}
+.product-title a{
+    text-decoration: none;
+    font-size: 16px;
+    color: #C4A586;
+    font-weight: 500;
+    letter-spacing: 2%;
+    font-family: "Gupter", serif;
+
+}
+.right-arrow{
+    margin-left: 10px;
+    color: #C4A586;
+}
+.cart{
+    margin-top: 50px;
+}
+.cart-1{
+    background-color: rgba(196, 165, 134,.63);
+    width: 402px;
+    position: relative;
+    padding: 66px 106px 154px 84px;
+    
+}
+.cart-1 button{
+    background-color: #D1A070;
+    padding: 24px 0px 20px 39px;
+    border-radius: 25px;
+    position: absolute;
+    top: -40px;
+    left: 120px;
+}
+.carticon{
+    padding: 0 17px;
+}
+.cart-1 img{
+    position: absolute;
+    left: 60px;
+    top: 150px;
+  
+}
+.doller{
+    justify-content: center;
+    
+    gap: 30px;
+}
+.doller del{
+    color: gray;
+}
+.cart2{
+    margin-top: 350px;
+}
+/* ========================= Product End ====================== */
